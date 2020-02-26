@@ -1,1 +1,1 @@
-numpy scipy jupyter notebook matplotlib pytest
+numpy scipy matplotlib
